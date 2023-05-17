@@ -1,0 +1,5 @@
+estudando o git checkout
+
+estes colchetes devem ficar vazi0s
+
+[] [] [] []
